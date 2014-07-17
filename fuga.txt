@@ -1,2 +1,3 @@
-fuga
-Piyo
+foo
+bar
+baz
