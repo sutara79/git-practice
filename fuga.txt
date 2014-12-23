@@ -1,0 +1,4 @@
+foo
+bar
+baz
+Fix001で追加
