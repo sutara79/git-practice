@@ -1,4 +1,4 @@
 foo
 bar
 baz
-Fix001で追加
+add issue34
