@@ -1,5 +1,6 @@
 foo
 bar
 baz
+---hotfix36---
 add issue34
 add issue35
