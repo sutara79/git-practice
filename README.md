@@ -1,4 +1,2 @@
-# Hello, Pull Request
-add after pull
-
-## What's this?
+# Git Practice
+This is a dummy repository to practice Git commands.
