@@ -1,6 +1,4 @@
 foo
 bar
 baz
----Hotfix2---
-add issue1
-add master
+add issue123
